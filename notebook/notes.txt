@@ -1,0 +1,14 @@
+id - Unique ID for the customer
+Gender - Gender of the customer
+Age - Age of the customer
+Driving_License - [0 - doesn't have , 1 has]
+Region code - Unique code for the region of the customer
+Previously Insured - [0 - doesn't have, 1 has]
+Vehicle Age - Age of Vehicle
+Vehicle_Damage - [0 - Cust didnt get his vehicle damaged in past , 1 - Cust got his vehicle damaged]
+Annual_Premium - Amount customer needs to pay as a premium in a year
+Policy_Sales_Channel - Anonymized code for the channel of outreaching to the customer ie: Different Agents
+, Over Mail, Over Phone, In Person, etc.
+Vintage - Number of days customer has been associated with the company
+Response - [0 - Customer is not interested, 1 - CUst is interested]
+
